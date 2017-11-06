@@ -31,3 +31,29 @@
     color: #D23333;
   }
 }
+
+.member > img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.member {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.container {
+  text-align: center;
+}
+
+.row {
+  margin:0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container > h1 {
+  padding-top: 40px;
+}
